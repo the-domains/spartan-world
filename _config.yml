@@ -10,6 +10,8 @@ color:
     - '#3F8EFC'
     - '#2667FF'
     - '#3B28CC'
+opengraph:
+  appId: 'https://www.facebook.com/spartan.colombia/?ref=aymt_homepage_panel'
 layout_spectrum: 0.4233945293817669
 author:
   email: sales@spartnaworld.co
