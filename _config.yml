@@ -1,26 +1,38 @@
-typography_spectrum: 0.8148153878282756
+author:
+  email: sales@spartnaworld.co
+  name: Spartan World
+title: Spartan World
+opengraph:
+  appId: 'https://www.facebook.com/spartan.colombia/?ref=aymt_homepage_panel'
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+name: Spartan World
 color:
-  brandStrength: 0.03399427514523268
-  lightness: 0.907429409911856
   saturation: 0.8807718835305423
-  rhythmicContrast: 0.49348144442774355
+  brandStrength: 0.03399427514523268
+  rhythmicContrast: 0.4934814444277436
   brandColors:
     - '#ADD7F6'
     - '#87BFFF'
     - '#3F8EFC'
     - '#2667FF'
     - '#3B28CC'
-opengraph:
-  appId: 'https://www.facebook.com/spartan.colombia/?ref=aymt_homepage_panel'
-layout_spectrum: 0.4233945293817669
-author:
-  email: sales@spartnaworld.co
-  name: Spartan World
-name: Spartan World
+  lightness: 0.907429409911856
+typography_spectrum: 0.3195489
 navigation:
   - name: Spartan Paintball
     url: 'https://www.facebook.com/spartan.colombia/?ref=aymt_homepage_panel'
     type: external
+layout_spectrum: 0.4233945293817669
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/7c7b8d81-2f0a-461b-a948-44d89a55f3af.png
-title: Spartan World
