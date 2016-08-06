@@ -18,21 +18,21 @@ collections:
       number: 10
 name: Spartan World
 color:
-  saturation: 0.8807718835305423
-  brandStrength: 1
-  lightness: 0.907429409911856
+  saturation: 0.9248899652156979
+  brandStrength: 0.08916272525675595
+  lightness: 0.7664969225879759
   brandColors:
-    - '#000000'
-    - '#EFCB22'
-    - '#EE8A24'
-    - '#FDFDFD'
-    - '#414442'
-  rhythmicContrast: 0.4934814444277436
-typography_spectrum: 0.3195489
+    - '#FF6600'
+    - '#C13B00'
+    - '#5E6D70'
+    - '#424E4F'
+    - '#1B1D1E'
+  rhythmicContrast: 0.814971353393048
+typography_spectrum: 0.9592326208949089
 navigation:
   - name: Spartan Paintball
     url: 'https://www.facebook.com/spartan.colombia/?ref=aymt_homepage_panel'
     type: external
-layout_spectrum: 0.4233945293817669
+layout_spectrum: 0.7234529219567776
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/7c7b8d81-2f0a-461b-a948-44d89a55f3af.png
