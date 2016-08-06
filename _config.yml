@@ -1,15 +1,20 @@
-layout_spectrum: 0.8496313812211156
-typography_spectrum: 0.8256178046576679
+typography_spectrum: 0.8148153878282756
 color:
-  brandStrength: 0.9333558848593384
-  lightness: 0.5205937838181853
-  saturation: 0.3882228806614876
-  rhythmicContrast: 0.6436569518409669
+  brandStrength: 0.03399427514523268
+  lightness: 0.907429409911856
+  saturation: 0.8807718835305423
+  rhythmicContrast: 0.49348144442774355
   brandColors:
-    - '#F3EC18'
-    - '#FFFFFF'
-    - '#ED1E24'
-    - '#F6961D'
-    - '#090909'
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+layout_spectrum: 0.4233945293817669
+author:
+  email: sales@spartnaworld.co
+  name: Spartan World
 name: Spartan World
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/6442d195-ffd4-49ff-ac3a-fd7c678bb903.jpg
 title: Spartan World
