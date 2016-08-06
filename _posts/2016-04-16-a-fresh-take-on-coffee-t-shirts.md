@@ -1,9 +1,8 @@
 ---
-datePublished: '2016-08-06T15:49:49.494Z'
+datePublished: '2016-08-06T17:17:52.747Z'
 sourcePath: _posts/2016-04-16-a-fresh-take-on-coffee-t-shirts.md
 inFeed: true
-isBasedOnUrl: 'http://sprudge.com/fresh-kaufee-coffee-t-shirts-66292.html'
-hasPage: false
+hasPage: true
 keywords:
   - kaufee
   - coffee
@@ -32,7 +31,7 @@ author:
   - name: Anna Brones
     url: 'http://sprudge.com/author/anna-brones'
     avatar: {}
-dateModified: '2016-08-06T15:49:47.462Z'
+dateModified: '2016-08-06T17:17:52.359Z'
 title: A Fresh Take On Coffee T-Shirts
 app_links: []
 publisher:
@@ -50,6 +49,7 @@ inLanguage: en
 inNav: false
 via: {}
 starred: false
+url: a-fresh-take-on-coffee-t-shirts/index.html
 _context: 'http://schema.org'
 _type: MediaObject
 
