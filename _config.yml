@@ -19,6 +19,9 @@ navigation:
   - name: Spartan Paintball
     url: 'https://www.facebook.com/spartan.colombia/?ref=aymt_homepage_panel'
     type: external
+  - name: A Fresh Take On Coffee T-Shirts
+    id: 3877f2cf-260e-4749-85c5-2220fe021978
+    type: content
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/7c7b8d81-2f0a-461b-a948-44d89a55f3af.png
 title: Spartan World
