@@ -19,15 +19,15 @@ collections:
 name: Spartan World
 color:
   saturation: 0.8807718835305423
-  brandStrength: 0.03399427514523268
-  rhythmicContrast: 0.4934814444277436
-  brandColors:
-    - '#ADD7F6'
-    - '#87BFFF'
-    - '#3F8EFC'
-    - '#2667FF'
-    - '#3B28CC'
+  brandStrength: 1
   lightness: 0.907429409911856
+  brandColors:
+    - '#000000'
+    - '#EFCB22'
+    - '#EE8A24'
+    - '#FDFDFD'
+    - '#414442'
+  rhythmicContrast: 0.4934814444277436
 typography_spectrum: 0.3195489
 navigation:
   - name: Spartan Paintball
