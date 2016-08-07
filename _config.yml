@@ -1,18 +1,18 @@
-typography_spectrum: 0.5451563715469092
+typography_spectrum: 0.15113984909839928
 color:
-  saturation: 0.1044064920861274
-  brandStrength: 0.8662658056709915
-  lightness: 0.6797506401780993
+  saturation: 0.2557992257643491
+  brandStrength: 0.17894698749296367
+  lightness: 0.3265239051543176
   brandColors:
     - '#FFFFFF'
     - '#CCCCCC'
     - '#999999'
     - '#4D4D4D'
     - '#333333'
-  rhythmicContrast: 0.5304595364723355
+  rhythmicContrast: 0.13390271947719157
 opengraph:
   appId: 'https://www.facebook.com/spartan.colombia/?ref=aymt_homepage_panel'
-layout_spectrum: 0.33685517706908286
+layout_spectrum: 0.557101832004264
 author:
   email: sales@spartnaworld.co
   name: Spartan World
