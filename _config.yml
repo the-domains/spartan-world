@@ -21,9 +21,6 @@ navigation:
   - name: Spartan Paintball
     url: 'https://www.facebook.com/spartan.colombia/?ref=aymt_homepage_panel'
     type: external
-  - name: Footer
-    id: c50b5255-2b08-4efc-8eb6-7e2ecabe45d1
-    type: content
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/7c7b8d81-2f0a-461b-a948-44d89a55f3af.png
 collections:
