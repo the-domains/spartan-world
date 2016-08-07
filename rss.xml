@@ -4,8 +4,15 @@
         <description><![CDATA[Spartan]]></description>
         <link>https://thegrid.ai/spartan-world/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 07 Aug 2016 02:14:02 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 07 Aug 2016 02:14:36 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/spartan-world/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Nuevo diseño de Hired Killers]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/20b8c39b-6ae0-424f-a5e6-86c32d6d3386.jpg">]]></description>
+            <link>https://thegrid.ai/spartan-world/nuevo-diseno-de-hired-killers/index.html</link>
+            <guid isPermaLink="false">48dc48e7-571a-4c14-8f7d-cbb66fd7a087</guid>
+            <pubDate>Sun, 07 Aug 2016 02:14:33 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/9ae2060adca8eb644aa3d2a18b2c21f8/croprotate.jpg?cropheight=1793&cropwidth=7087&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2Fa7f78b12-270a-45f1-8bdf-4ada3a74ad24.jpg&x=0&y=0" alt="Nuevo Dise&ntilde;o Duck n Cover">]]></description>
@@ -47,13 +54,6 @@
             <link>https://thegrid.ai/spartan-world/9c92ac73-ef15-4bd7-b9f6-57bdbc5cddd2/index.html</link>
             <guid isPermaLink="false">9c92ac73-ef15-4bd7-b9f6-57bdbc5cddd2</guid>
             <pubDate>Sun, 07 Aug 2016 01:14:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Nuevo diseño de Hired Killers]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/20b8c39b-6ae0-424f-a5e6-86c32d6d3386.jpg">]]></description>
-            <link>https://thegrid.ai/spartan-world/nuevo-diseno-de-hired-killers/index.html</link>
-            <guid isPermaLink="false">48dc48e7-571a-4c14-8f7d-cbb66fd7a087</guid>
-            <pubDate>Sat, 06 Aug 2016 17:42:15 GMT</pubDate>
         </item>
     </channel>
 </rss>
