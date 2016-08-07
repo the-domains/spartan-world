@@ -4,7 +4,7 @@
         <description><![CDATA[Spartan World]]></description>
         <link>https://thegrid.ai/spartan-world/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 07 Aug 2016 01:12:22 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 07 Aug 2016 01:13:41 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/spartan-world/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Welcome]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/spartan-world/welcome/index.html</link>
             <guid isPermaLink="false">90fb5ace-ddd6-476f-ba90-e8bc7107d23d</guid>
             <pubDate>Sun, 07 Aug 2016 01:10:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/dd22d544fd5253a391ac1473ead4895c/croprotate.jpg?cropheight=1793&cropwidth=7087&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2Fabd27d21-4b0b-480e-8826-df5db04d14ac.jpg&x=0&y=0">]]></description>
+            <link>https://thegrid.ai/spartan-world/a7fcbf68-847a-4fbf-92c7-90a776d34e6e/index.html</link>
+            <guid isPermaLink="false">a7fcbf68-847a-4fbf-92c7-90a776d34e6e</guid>
+            <pubDate>Sun, 07 Aug 2016 01:13:38 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
@@ -40,13 +47,6 @@
             <link>https://thegrid.ai/spartan-world/fda6f5bf-32aa-4cef-8f20-be123d68386c/index.html</link>
             <guid isPermaLink="false">fda6f5bf-32aa-4cef-8f20-be123d68386c</guid>
             <pubDate>Sun, 07 Aug 2016 00:28:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/abd27d21-4b0b-480e-8826-df5db04d14ac.jpg">]]></description>
-            <link>https://thegrid.ai/spartan-world/a7fcbf68-847a-4fbf-92c7-90a776d34e6e/index.html</link>
-            <guid isPermaLink="false">a7fcbf68-847a-4fbf-92c7-90a776d34e6e</guid>
-            <pubDate>Sat, 06 Aug 2016 22:30:10 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
