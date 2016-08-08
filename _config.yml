@@ -29,11 +29,11 @@ navigation:
     type: external
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/7c7b8d81-2f0a-461b-a948-44d89a55f3af.png
-name: Spartan World
 author:
   email: sales@spartnaworld.co
   name: Spartan World
+name: Spartan World
 opengraph:
   appId: 'https://www.facebook.com/spartan.colombia/?ref=aymt_homepage_panel'
 typography_spectrum: 0.1511398490983993
-layout_spectrum: 0.9049408
+layout_spectrum: 0.1960257
