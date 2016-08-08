@@ -5,35 +5,35 @@ collections:
       number: 15
       paginate: true
       navigable: true
+    permalink:
+      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
-    permalink:
-      path: '/:title/'
 description: _Footer_
 color:
   saturation: 1
   brandStrength: 0.1789469874929637
-  lightness: 1
+  rhythmicContrast: 1
   brandColors:
     - '#FFFFFF'
     - '#CCCCCC'
     - '#999999'
     - '#4D4D4D'
     - '#333333'
-  rhythmicContrast: 1
+  lightness: 1
 navigation:
   - name: Facebook Page
     url: 'https://www.facebook.com/spartan.colombia/?ref=aymt_homepage_panel'
     type: external
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/7c7b8d81-2f0a-461b-a948-44d89a55f3af.png
 name: Spartan World
 author:
   email: sales@spartnaworld.co
   name: Spartan World
-favicon: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/7c7b8d81-2f0a-461b-a948-44d89a55f3af.png
 opengraph:
   appId: 'https://www.facebook.com/spartan.colombia/?ref=aymt_homepage_panel'
 typography_spectrum: 0.1511398490983993
-layout_spectrum: 0.726638
+layout_spectrum: 0.9049408
